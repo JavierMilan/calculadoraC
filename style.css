@@ -27,6 +27,6 @@ button{
     font-size: 3em;
     font-family: cursive;
 }
-.limpiar,.igual{
+#limpiar,#igual{
    grid-column: span 2;
 }
